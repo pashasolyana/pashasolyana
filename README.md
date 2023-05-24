@@ -1,12 +1,10 @@
 ### 1. Summary: ###
-* Web-developer specializing in back-end development. Experienced with all stages of the development cycle and information security including pentest direction
+* Web-developer specializing in back-end development. Experienced with all stages of the development cycle.
 
 ---
 ### 2. Education: ###
-*  **2022 - present**  
-Master of information systems Obninsk Institute of Nuclear Power Engineering National Research Nuclear University MEPhI
-*  **2018 - 2022**  
-Bachelor of information systems Obninsk Institute of Nuclear Power Engineering National Research Nuclear University MEPhI
+*  **2019 - present**  
+College of Communications #54
 
 ---
 ### 3. Skills ###
