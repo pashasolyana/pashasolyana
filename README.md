@@ -1,5 +1,5 @@
 ### 1. Summary: ###
-* Web-developer specializing in back-end development. Experienced with all stages of the development cycle.
+* Web-developer specializing in backend development. Experienced with all stages of the development cycle.
 
 ---
 ### 2. Education: ###
