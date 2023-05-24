@@ -31,7 +31,7 @@ College of Communications #54
 *  **2022 - present**  
 Backend developer [GlavStudio](https://glavstudio.pro/)
 *  **2022-2022**  
-Backen developer ["ООО" Удача]
+Backend developer ["ООО" Удача]
 *  **2021-2022**  
 Freelance backend development  
 ---
