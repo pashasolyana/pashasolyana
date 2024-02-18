@@ -1,5 +1,5 @@
 ### 1. Summary: ###
-* Web-developer specializing in backend development. Experienced with all stages of the development cycle.
+* Backend developer. I have been fully engaged in development for 3 years, actively studying new technologies and libraries. I have experience working at all stages of the product.
 
 ---
 ### 2. Education: ###
@@ -8,31 +8,33 @@ College of Communications #54
 
 ---
 ### 3. Skills ###
-*  Javascript / Typescript / Java
+*  Javascript / Typescript
 *  Node.js
-*  Spring
 *  Express / Nest
 *  SQL (PostgreSQL, MySQL)
 *  NoSQL (MongoDB)
-*  Sequelize / TypeORM
+*  Sequelize / TypeORM / Prisma
 *  Swagger
 *  Docker
 *  Redis
 *  Nginx
+*  NUTS
+*  Unit, Integration, E2E testing.
 
 ---
 ### 4. Explore ###
 
-*  Spring Boot
-*  RabbitMq
+*  GO
+*  Typescript
+
 
 ---
 ### 5. Experience ###
-*  **2022 - present**  
+*  **September 2022 - June 2023**  
 Backend developer [GlavStudio](https://glavstudio.pro/)
-*  **2022-2022**  
+*  **May 2022-September 2022**  
 Backend developer ["ООО" Удача]
-*  **2021-2022**  
+*  **2021-2024**  
 Freelance backend development  
 ---
 
@@ -42,7 +44,6 @@ Freelance backend development
 *  [Web-cloud](https://github.com/pashasolyana/cloud-disk)
 *  [Discord](https://github.com/pashasolyana/discord)
 *  [Сurrency converter](https://github.com/pashasolyana/course-work-flutter)
-
 
 ---
 ### 7 Contacts: ###
