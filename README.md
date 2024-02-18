@@ -48,4 +48,4 @@ Freelance backend development
 ---
 ### 7 Contacts: ###
 *  Email: pavlolypko@mail.ru
-*  [Telegram](https://t.me/xdddgfcthh)
+*  [Telegram](https://t.me/oknrddhnii)
