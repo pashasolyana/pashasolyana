@@ -18,7 +18,7 @@ College of Communications #54
 *  Docker
 *  Redis
 *  Nginx
-*  Http, Ftp, tRPC (in process), gPRC, NUTS, RabbitMQ
+*  Http, Ftp, tRPC (in process), gPRC, NUTS, RabbitMQ, GraphQL
 *  Unit, Integration, E2E testing.
 *  Payment services(ЮKassa, Cryptomus)
 
