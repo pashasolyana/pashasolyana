@@ -21,6 +21,7 @@ College of Communications #54
 *  tRPC (in proceess)
 *  NUTS
 *  Unit, Integration, E2E testing.
+*  Payment services(ЮKassa, Cryptomus)
 
 ---
 ### 4. Explore ###
