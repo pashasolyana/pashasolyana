@@ -14,10 +14,11 @@ College of Communications #54
 *  SQL (PostgreSQL, MySQL)
 *  NoSQL (MongoDB)
 *  Sequelize / TypeORM / Prisma
-*  Swagger
+*  Swagger (openAPI)
 *  Docker
 *  Redis
 *  Nginx
+*  tRPC (in proceess)
 *  NUTS
 *  Unit, Integration, E2E testing.
 
