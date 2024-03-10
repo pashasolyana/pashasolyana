@@ -10,7 +10,7 @@ College of Communications #54
 ### 3. Skills ###
 *  Javascript / Typescript
 *  Node.js
-*  Express / Nest
+*  Express / Nest.JS
 *  SQL (PostgreSQL, MySQL)
 *  NoSQL (MongoDB)
 *  Sequelize / TypeORM / Prisma
@@ -18,7 +18,7 @@ College of Communications #54
 *  Docker
 *  Redis
 *  Nginx
-*  Http, Ftp, tRPC (in process), gPRC, NUTS, RabbitMQ, GraphQL
+*  Http, Ftp, tRPC, (in process), REST, gPRC, NUTS, RabbitMQ, GraphQL
 *  Unit, Integration, E2E testing.
 *  Payment services(ЮKassa, Cryptomus)
 
