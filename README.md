@@ -43,7 +43,6 @@ Freelance backend development
 ### 6. Projects ###
 *  [Nest backend](https://github.com/pashasolyana/nestjs)
 *  [Online-cinema](https://github.com/pashasolyana/online-cinema-diplom)
-*  [Web-cloud](https://github.com/pashasolyana/cloud-disk)
 *  [Discord](https://github.com/pashasolyana/discord)
 *  [Сurrency converter](https://github.com/pashasolyana/course-work-flutter)
 
