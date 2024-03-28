@@ -3,7 +3,7 @@
 
 ---
 ### 2. Education: ###
-*  **2019 - present**  
+*  **2019 - 2023**  
 College of Communications #54
 
 ---
