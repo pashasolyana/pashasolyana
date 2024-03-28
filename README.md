@@ -21,6 +21,7 @@ College of Communications #54
 *  Http, Ftp, tRPC, (in process), REST, gPRC, NUTS, RabbitMQ, GraphQL
 *  Unit, Integration, E2E testing.
 *  Payment services(ЮKassa, Cryptomus)
+*  Work with API (X5 Group, Почта России, Ozon, Boxberry, PickPoint)
 
 ---
 ### 4. Explore ###
