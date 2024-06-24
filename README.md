@@ -8,17 +8,17 @@ College of Communications #54
 
 ---
 ### 3. Skills ###
-*  Javascript / Typescript
-*  Node.js
-*  Express / Nest.JS
+*  Javascript / Typescript / Node.js
+*  Express / Nest.JS / Fastify.js
 *  SQL (PostgreSQL, MySQL)
-*  NoSQL (MongoDB)
+*  NoSQL (MongoDB, Redis)
 *  Sequelize / TypeORM / Prisma
 *  Swagger (openAPI)
 *  Docker
-*  Redis
+*  Caching (Redis, cache-manager)
 *  Nginx
-*  Http, Ftp, tRPC, (in process), REST, gPRC, NUTS, RabbitMQ, GraphQL
+*  Http, FTP, REST, gPRC, tRPC, NUTS, GraphQL, WS, RabbitMQ
+*  MVC, DDD, CQRS
 *  Unit, Integration, E2E testing.
 *  Payment services(ЮKassa, Cryptomus)
 *  Work with API (X5 Group, Почта России, Ozon, Boxberry, PickPoint)
@@ -38,15 +38,10 @@ Backend developer [GlavStudio](https://glavstudio.pro/)
 Backend developer ["ООО" Удача]
 *  **2021-2024**  
 Freelance backend development  
----
 
-### 6. Projects ###
-*  [Nest backend](https://github.com/pashasolyana/nestjs)
-*  [Online-cinema](https://github.com/pashasolyana/online-cinema-diplom)
-*  [Discord](https://github.com/pashasolyana/discord)
-*  [Сurrency converter](https://github.com/pashasolyana/course-work-flutter)
-
----
-### 7 Contacts: ###
+ ---
+### 6 Contacts: ###
 *  Email: pavlolypko@mail.ru
 *  [Telegram](https://t.me/oknrddhnii)
+*  [Codewars](https://www.codewars.com/users/pashasolyana)
+*  [Leetcode](https://leetcode.com/u/pashasolyana/)
