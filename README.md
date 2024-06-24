@@ -23,6 +23,7 @@ College of Communications #54
 *  Payment services(ЮKassa, Cryptomus)
 *  Work with API (X5 Group, Почта России, Ozon, Boxberry, PickPoint)
 *  Gitlab CI/CD, Github Actions
+*  Telegram/Discrord bot development
 
 ---
 ### 4. Explore ###
