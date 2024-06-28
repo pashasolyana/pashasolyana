@@ -24,6 +24,7 @@ College of Communications #54
 *  Work with API (X5 Group, Почта России, Ozon, Boxberry, PickPoint)
 *  Gitlab CI/CD, Github Actions
 *  Telegram/Discrord bot development
+*  YandexS3
 
 ---
 ### 4. Explore ###
