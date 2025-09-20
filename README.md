@@ -1,50 +1,45 @@
-### 1. Summary: ###
-* Backend developer. I have been fully engaged in development for 3 years, actively studying new technologies and libraries. I have experience working at all stages of the product.
+# 👨‍💻 Павел Кириченко  
+
+**Backend / Fullstack Developer (NestJS, Vue 3, TypeScript)**  
+🌍 Москва | ✉️ [pavlolypko@mail.ru](mailto:pavlolypko@mail.ru) | 💬 [Telegram](https://t.me/oknrddhnii)  
 
 ---
-### 2. Education: ###
-*  **2019 - 2023**  
-College of Communications #54
+
+## 🚀 About Me  
+- ⚡ Backend developer with 3+ years of experience  
+- 🔧 Love working with complex logic & architecture  
+- 🌱 Exploring Go & deepening TypeScript expertise  
+- 🤝 Open to collaboration on interesting projects  
 
 ---
-### 3. Skills ###
-*  Javascript / Typescript / Node.js
-*  Express / Nest.JS / Fastify.js
-*  SQL (PostgreSQL, MySQL)
-*  NoSQL (MongoDB, Redis)
-*  Sequelize / TypeORM / Prisma
-*  Swagger (openAPI)
-*  Docker
-*  Caching (Redis, cache-manager)
-*  Nginx
-*  Http, FTP, REST, gPRC, tRPC, NUTS, GraphQL, WS, RabbitMQ
-*  MVC, DDD, CQRS
-*  Unit, Integration, E2E testing.
-*  Payment services(ЮKassa, Cryptomus)
-*  Work with API (X5 Group, Почта России, Ozon, Boxberry, PickPoint)
-*  Gitlab CI/CD, Github Actions
-*  Telegram/Discrord bot development
-*  YandexS3
+
+## 🛠️ Languages and Tools  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,vue,postgresql,mysql,mongodb,redis,prisma,docker,nginx,kafka,rabbitmq,git,github,html,css" />
+</p>
 
 ---
-### 4. Explore ###
 
-*  GO
-*  Typescript
+## 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pashasolyana&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pashasolyana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashasolyana&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
-### 5. Experience ###
-*  **September 2022 - June 2023**  
-Backend developer [GlavStudio](https://glavstudio.pro/)
-*  **May 2022-September 2022**  
-Backend developer ["ООО" Удача]
-*  **2021-2024**  
-Freelance backend development  
 
- ---
-### 6 Contacts: ###
-*  Email: pavlolypko@mail.ru
-*  [Telegram](https://t.me/oknrddhnii)
-*  [Codewars](https://www.codewars.com/users/pashasolyana)
-*  [Leetcode](https://leetcode.com/u/pashasolyana/)
+## 🌐 Connect with Me  
+- 📧 [Email](mailto:pavlolypko@mail.ru)  
+- 💬 [Telegram](https://t.me/oknrddhnii)  
+- 🎯 [Codewars](https://www.codewars.com/users/pashasolyana)  
+- 🧩 [Leetcode](https://leetcode.com/u/pashasolyana/)  
+- 💻 [GitHub](https://github.com/pashasolyana)  
